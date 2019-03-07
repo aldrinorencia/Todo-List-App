@@ -103,6 +103,9 @@ EJS is accessed by default in the `views` directory. So create a new folder name
 <br>`</body>`
 <br>`</html>`
 <br>
+
+## Public Setup
+
 Create a new folder named `public` in your directory. Within that `public` folder, add a file named `styles.css`. this will be our css file.
 <br>
 <br>Add the following code into the `styles.css` file
